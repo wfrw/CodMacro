@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Special Actions Configuration Data. 08/22/2024 18:46:44 -->
+
+<Actions>
+  <Action Name="Anti-Recoil">
+    <Trigger>R2</Trigger>
+    <Type>Macro</Type>
+    <Details>301/301/301/301/301/284/302/284</Details>
+    <Extras>KeepKeyState/Repeat</Extras>
+  </Action>
+  <Action Name="Auto Bhop">
+    <Trigger>R2/Options</Trigger>
+    <Type>Macro</Type>
+    <Details>261/339/261/339/261/339/261</Details>
+    <Extras>KeepKeyState/Repeat</Extras>
+  </Action>
+  <Action Name="Rapid-Fire">
+    <Trigger>R2</Trigger>
+    <Type>Macro</Type>
+    <Details>256/340/256/340</Details>
+    <Extras>KeepKeyState/Repeat</Extras>
+  </Action>
+  <Action Name="Aim-Assist">
+    <Trigger>R2</Trigger>
+    <Type>Macro</Type>
+    <Details>305/281/302/281/305/280/302/280/305/279/302/279/305/278/302/278</Details>
+    <Extras>KeepKeyState/Repeat</Extras>
+  </Action>
+</Actions>
